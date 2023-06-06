@@ -2,6 +2,9 @@ package hackerrank.medium;
 
 import java.util.function.Function;
 
+/*
+https://www.hackerrank.com/challenges/java-lambda-expressions/problem?isFullScreen=true
+ */
 class JavaLambdaExpressions {
 
     public static Function<Integer, Boolean> isOdd(){
