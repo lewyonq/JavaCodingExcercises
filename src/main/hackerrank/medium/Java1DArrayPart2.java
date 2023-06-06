@@ -1,5 +1,8 @@
 package hackerrank.medium;
 
+/*
+https://www.hackerrank.com/challenges/java-1d-array/problem
+ */
 public class Java1DArrayPart2 {
     public static void main(String[] args) {
         System.out.println(canWin(4, new int[]{0,1,1,0,0,1,1,0,1}));
